@@ -1,0 +1,57 @@
+Name:sakshi borse 
+Roll no:6
+Batch: F1 
+practical:5
+
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Practical 3</title> 
+</head> 
+<body style="background-color:#267373"> 
+<h1 style="background-color:#0B2222;color:#40BF88;text-align: center; "> 
+Let's learn about lists 
+</h1> 
+<h2> 
+Unordered Lists 
+</h2> 
+ 
+<ul>NAMES 
+<li>sakshi</li> 
+<li>Pranali</li> 
+<li>Janhvi</li> 
+</ul> 
+<ul type="square">ROLL NO. 
+<li>6</li> 
+<li>33</li> 
+<li>31</li> 
+</ul> 
+<ul type="circle">FAVOURITE COLOUR 
+<li>Purple</li> 
+<li>Navy Blue</li> 
+<li>Voilet</li> 
+</ul> 
+<ul type="none"> Birthday 
+<li>9/3/2005</li> 
+<li>11/2/2004</li> 
+<li>21/10/2004</li> 
+</ul> 
+<h2> 
+Ordered Lists 
+</h2> 
+ 
+ 
+<ol>Fruits 
+<li>Mango</li> 
+<li>Pineapple</li> 
+<li>Watermelon</li> 
+</ol> 
+<ol type="I">Vegetables 
+<li>Potato</li> 
+<li>Tomato</li> 
+<li>Lady Finger</li> 
+</ol> 
+<ol type="i">Cuisin

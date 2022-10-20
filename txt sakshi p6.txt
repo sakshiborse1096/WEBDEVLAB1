@@ -1,0 +1,72 @@
+Name:sakshi borse
+Roll no:6
+Batch:F1 
+practical:6
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<title>Document</title> 
+</head> 
+<body style="background-color:rgb(201, 123, 5) ;"> 
+<h1 style="text-align:center;"> 
+Lets Learn Linking 
+</h1> 
+<h2> 
+There Are two Types of Linking : 
+</h2> 
+<h2> 
+1)Internal Linking:- 
+</h2> 
+<a href="#li">LinkedIn</a><br> 
+<a href="#gh">Github</a> 
+<h2> 
+2)External Linking:- 
+</h2> 
+<h3> 
+Lets have look on the use of target attribute: 
+</h3> 
+<a href="https://www.google.com" target="_self"> 
+Google in the same tab 
+</a><br> 
+<a href="https://www.google.com" target="_blank"> 
+Google in the different tab 
+</a> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><
+br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><
+br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><
+br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><
+br><br><br><br><br> 
+<h1 id="li"> 
+LinkedIn 
+</h1> 
+<p> 
+LinkedIn (/lܼŋktˈܼn/) is an American business and employment-oriented online service that operates via websites a
+nd mobile apps. Launched on May 5, 2003,[5] the platform is primarily used for professional networking and career 
+development, and allows job seekers to post their CVs and employers to post jobs. From 2015 most of the company's
+revenue came from selling access to information about its members to recruiters and sales professionals.[6] Since D
+ecember 2016, it has been a wholly owned subsidiary of Microsoft. As of February 2022, LinkedIn has 830+ million
+registered members from over 200 countries and territories. 
+<br> 
+LinkedIn allows members (both workers and employers) to create profiles and connect with each other in an online s
+ocial network which may represent real-world professional relationships. Members can invite anyone (whether an ex
+isting member or not) to become a connection. LinkedIn can also be used to organize offline events, join groups, wri
+te articles, publish job postings, post photos and videos, and more.[7] 
+</p> 
+<h1 id="gh"> 
+Github 
+</h1> 
+<p> 
+GitHub, Inc. (/ˈܼܳthݞb/[a]), is an Internet hosting service for software development and version control using Git. I
+t provides the distributed version control of Git plus access control, bug tracking, software feature requests, task man
+agement, continuous integration, and wikis for every project.[5] Headquartered in California, it has been a subsidiary
+of Microsoft since 2018.[6] 
+<br><br> 
+It is commonly used to host open source software development projects.[7] As of June 2022, GitHub reported hav
+ing over 83 million developers[8] and more than 200 million repositories,[9] including at least 28 million public rep
+ositories.[10] It is the largest source code host as of November 2021. 
+</p> 
+</body> 
+</html>

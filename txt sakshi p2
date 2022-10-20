@@ -1,0 +1,43 @@
+Name:sakshi borse
+Roll no:6 
+Batch :F1 
+practical:2
+
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<title>Document</title> 
+</head> 
+<body style="background-color:rgb(136, 61, 122);color:chocolate"> 
+<h1 style="text-align:center ;"> 
+Lets learn all about the formatting tags. 
+</h1> 
+<hr> 
+<b>This is Bold Text.</b><br> 
+<strong>This text looks bold but we have used strong tag here as this is important text.</strong><br><br> 
+<hr> 
+<i>This is italic text.</i><br> 
+<em>This text is emphasized.</em><br> 
+<hr> 
+<p>This is some normal text.</p> 
+<p><small> 
+This is some smaller text. 
+</small></p> 
+<hr> 
+<p> 
+Some text is to be <mark>Marked.</mark> 
+</p> 
+<p> 
+Some text is to be <del>deleted.</del> 
+</p> 
+<p> 
+We can always insert <ins>new text</ins> instead of <del>old one.</del> 
+</p> 
+<hr> 
+<p> 
+This is <sub>subscripted text.</sub> 
+<p> 
+This is <sup>superscripted text</sup> 
+</p> 
+</body> 
+</html>

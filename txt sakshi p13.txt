@@ -1,0 +1,25 @@
+Name: sakshi borse 
+Roll no:6
+Batch:F1
+practical no:13
+
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>My Home Page</title> 
+</head> 
+<body style="background-color:yellow;"> 
+<h1 style="color:purple; text-align:center">SSBT's Arts Commerce Science College,Bambhori,Jalgaon</h1> 
+<hr> 
+<p style="font-size:35px;color:green;"> 
+Welcome to the world of SSBT <br> 
+FY BCA <br> 
+I am the student of the FY BCA . <br> 
+I heartly welcome you all. <br> 
+</p> 
+<p style="color:purple;font-size:40px;"><i>THANK YOU</i></p> 
+</body> 
+</htm>

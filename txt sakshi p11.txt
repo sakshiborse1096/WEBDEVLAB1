@@ -1,0 +1,46 @@
+Name:sakshi borse
+Roll no:6
+batch no:F1 
+practical no:11
+
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<style> 
+div{ 
+color:rgb(151, 69, 151); 
+background-color:#FF884B; 
+font-size:35px; 
+font-family:Lucida Calligraphy; 
+text-align: center; 
+border:5px double rgb(135, 7, 189); 
+margin-top:40px; 
+margin-left:550px; 
+margin-right:550px; 
+} 
+</style> 
+<title>Document</title> 
+</head> 
+<body style="background-color:#9D7DD4"> 
+<h1 style="color:#622163;text-align:center;font-family:'Bradley Hand ITC'"> 
+Myself sakshi borse , <br> 
+Want to Get Along with Me, 
+click on the below links: 
+</h1> 
+<div> 
+<a href="https://www.linkedin.com/in/mahek-nanwani-0ba3b8249?lipi=urn%3Ali%3Apage%3Ad_flagship3_p
+rofile_view_base_contact_details%3BetKSyBNkQV6XB4HEqgvpJw%3D%3D"> 
+LinkedIn 
+</a> 
+</div> 
+<div> 
+<a href="mailto: borsesakshi784@gmail.com ">Email</a> 
+</div> 
+<div> 
+<a href="https:sakshiborse2005">Github</a> 
+</div> 
+<div> 
+<a href="https://www.instagram.com/borse9901">Wanna know more, click here</a> 
+</div> 
+</body> 
+</html> 
